@@ -9,7 +9,7 @@
 
 ## 😊 About Me
 
-I'm currently a Postdoctoral Associate in Libby Barnes' lab at Boston University. My research focuses on improving our understanding of the limitations and utility of AI-weather emulators for climate and weather prediction. I previously worked on hybrid physics-ML climate models during my PhD at UC Irvine, where I was advised by Mike Pritchard (now at NVIDIA).
+I am currently a Postdoctoral Associate in Libby Barnes' lab at Boston University. My research focuses on improving our understanding of the limitations and utility of AI-weather emulators for climate and weather prediction. I previously worked on hybrid physics-ML climate models during my PhD at the University of California, Irvine, where I was advised by Mike Pritchard (now at NVIDIA).
 
 ## 📫 E-Mail
 
