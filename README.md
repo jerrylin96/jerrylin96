@@ -13,4 +13,4 @@ I'm currently a Postdoctoral Associate in Libby Barnes' lab at Boston University
 
 ## 📫 E-Mail
 
-For further inquiries, you can reach me directly by email at [jlin404@bu.edu](mailto:jlin404@bu.edu).
+If you would like to reach me directly, you can send me an email at [jlin404@bu.edu](mailto:jlin404@bu.edu).
